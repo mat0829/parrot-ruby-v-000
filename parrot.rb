@@ -4,5 +4,8 @@
 # Creating a method called "parrot"
 
 def parrot(phrase = "Squawk!")
-   puts phrase
+   if parrot
+     "Squawk!"
+     elsif parrot(phrase)
+     "Pretty Bird"
 end
