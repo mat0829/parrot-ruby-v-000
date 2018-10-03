@@ -3,7 +3,6 @@
 
 # Creating a method called "parrot"
 
-def parrot(phrase = "Pretty bird!")
-   phrase = "Squawk"
+def parrot(phrase = "Squawk!")
    puts phrase
 end
