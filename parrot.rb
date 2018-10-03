@@ -4,5 +4,5 @@
 # Creating a method called "parrot"
 
 def parrot(phrase)
-   parrot = parrot("Squawk!")
+   phrase = parrot("Squawk!")
 end
