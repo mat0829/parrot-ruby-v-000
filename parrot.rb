@@ -4,6 +4,6 @@
 # Creating a method called "parrot"
 
 def parrot(phrase = "Squawk!")
-   phrase = "Pretty bird!"
+   phrase = "Squawk"
    puts phrase
 end
