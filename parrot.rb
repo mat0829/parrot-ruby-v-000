@@ -8,4 +8,5 @@ def parrot(phrase = "Squawk!")
      "Squawk!"
      elsif parrot(phrase)
      "Pretty Bird"
+   end
 end
